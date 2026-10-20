@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Classic Cheeseburger",
+        "category": "Fast Food",
+        "price": 250,
+        "isVeg": false,
+        "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 2,
+        "name": "Paneer Tikka Pizza",
+        "category": "Pizza",
+        "price": 350,
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 3,
+        "name": "Spicy Chicken Wings",
+        "category": "Starters",
+        "price": 220,
+        "isVeg": false,
+        "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 4,
+        "name": "Veg Hakka Noodles",
+        "category": "Chinese",
+        "price": 180,
+        "isVeg": true,
+        "image": "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?auto=format&fit=crop&w=500&q=60"
+    }
+]
